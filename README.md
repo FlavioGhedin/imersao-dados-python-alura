@@ -44,10 +44,10 @@ Este projeto foi desenvolvido durante a **Imersão Dados Python** da **Alura**, 
 ## 📂 Estrutura do Projeto
 
 📁 imersao-dados-python-alura
-│-- 📜 app.py # Código principal do Streamlit
-│-- 📜 dados-imersao-final.csv # Excel com as análises feitas no google colab
-│-- 📜 requirements.txt # Dependências do projeto
-│-- 📜 README.md # Documentação do projeto
+│-- 📜 app.py # Código principal do Streamlit|
+│-- 📜 dados-imersao-final.csv # Excel com as análises feitas no google colab|
+│-- 📜 requirements.txt # Dependências do projeto|
+│-- 📜 README.md # Documentação do projeto|
 
 
 ---
