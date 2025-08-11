@@ -43,4 +43,19 @@ Este projeto foi desenvolvido durante a **Imersão Dados Python** da **Alura**, 
 
 ## 📂 Estrutura do Projeto
 
+📁 imersao-dados-python-alura
+│-- 📜 app.py # Código principal do Streamlit
+│-- 📜 dados-imersao-final.csv # Excel com as análises feitas no google colab
+│-- 📜 requirements.txt # Dependências do projeto
+│-- 📜 README.md # Documentação do projeto
 
+
+---
+
+## 📬 Contato
+💼 [LinkedIn](https://www.linkedin.com/in/flavioghedin/)  
+📧 **flavio.ghedin801@gmail.com**  
+
+<p align="center">
+  Python 🐍
+</p>
